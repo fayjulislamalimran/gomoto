@@ -15,7 +15,6 @@ const Home = () => {
   return (
     <div>
       <Hero></Hero>
-
       <Extra></Extra>
       <Pizza></Pizza>
       <Service></Service>

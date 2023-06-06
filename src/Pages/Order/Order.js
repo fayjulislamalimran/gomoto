@@ -7,7 +7,7 @@ const Order = () => {
     <div>
       <div className="hero min-h-screen ">
         <div className="hero-content flex-col lg:flex-row">
-          <img src={order} className="w-6/12 " alt="" />
+          <img src={order} className="w-6/12 " alt="" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000" />
           <div>
             <h1 className="text-4xl font-bold  ">
               Get Your Order 24/7 <br />

@@ -7,7 +7,7 @@ import Team4 from "../../assets/team4.png";
 const Team = () => {
   return (
     <div className="mt-20 mb-10">
-      <h1 className="text-4xl font-bold text-center ">Meet Our Best Team</h1>
+      <h1 className="text-4xl font-bold text-center ">Meet Our Best Chef</h1>
       <h1 className="text-2xl font-bold text-yellow-500 text-center ">TEAM MEMBERS</h1>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 xl:grid-cols-4 gap-4">
         <div class="flex flex-col items-center justify-center bg-white p-4 shadow rounded-lg">
